@@ -1,16 +1,8 @@
 # bloc_counter_application
 
-A new Flutter project.
+![1](https://user-images.githubusercontent.com/85957655/194702427-e699cfff-b643-46f7-a612-976388a56654.jpg)
 
-## Getting Started
+![2](https://user-images.githubusercontent.com/85957655/194702429-72025a8d-b11e-4726-a60f-be714d400aeb.jpg)
 
-This project is a starting point for a Flutter application.
+![3](https://user-images.githubusercontent.com/85957655/194702431-846d86af-8ec6-47e2-917e-08b427f0bf58.jpg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
